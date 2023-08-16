@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+  .container--navbar {
+    width: 100%;
+    min-height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.432);
+}

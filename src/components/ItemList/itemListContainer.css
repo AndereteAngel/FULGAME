@@ -1,0 +1,29 @@
+.container--ItemListContainer {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin:10px;
+}
+.container--ItemListContainer--text {
+	text-align: center;
+	margin: 5px 0px;
+}
+
+.conocenos {
+	text-decoration: none;
+	border: solid;
+	border-radius: 10px;
+	background-color: rgb(145, 99, 189);
+	padding: 6px;
+	color: black;
+	margin: 10px;
+}
+
+.botonesInf {
+	margin: 10px;
+}
+
+.itemListcontainer--prop{
+	margin: 10px;
+}
